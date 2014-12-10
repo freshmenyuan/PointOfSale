@@ -1,0 +1,9 @@
+
+{"Country": "Country", "TotalPrice": 0, "CustomerNumber": 0}
+{"Country": "United Kingdom", "TotalPrice": 49371795, "CustomerNumber": 9956}
+{"Country": "Country", "TotalPrice": 1, "CustomerNumber": 1}
+{"Country": "United Kingdom", "TotalPrice": 49371795, "CustomerNumber": 9956}
+{"Country": "Country", "TotalPrice": 1, "CustomerNumber": 1}
+{"Country": "United Kingdom", "TotalPrice": 49371795, "CustomerNumber": 9956}
+{"Country": "Country", "TotalPrice": 1, "CustomerNumber": 1}
+{"Country": "United Kingdom", "TotalPrice": 49371795, "CustomerNumber": 9956}
